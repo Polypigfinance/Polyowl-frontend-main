@@ -2,8 +2,8 @@
 	{
 		"inputs": [
 			{
-				"internalType": "contract OwlToken",
-				"name": "_owl",
+				"internalType": "contract PigToken",
+				"name": "_pig",
 				"type": "address"
 			},
 			{
@@ -18,7 +18,7 @@
 			},
 			{
 				"internalType": "uint256",
-				"name": "_OwlPerBlock",
+				"name": "_PigPerBlock",
 				"type": "uint256"
 			},
 			{
@@ -149,7 +149,7 @@
 			{
 				"indexed": false,
 				"internalType": "uint256",
-				"name": "OwlPerBlock",
+				"name": "PigPerBlock",
 				"type": "uint256"
 			}
 		],
@@ -196,7 +196,7 @@
 	},
 	{
 		"inputs": [],
-		"name": "OwlPerBlock",
+		"name": "PigPerBlock",
 		"outputs": [
 			{
 				"internalType": "uint256",
@@ -338,10 +338,10 @@
 	},
 	{
 		"inputs": [],
-		"name": "owl",
+		"name": "pig",
 		"outputs": [
 			{
-				"internalType": "contract OwlToken",
+				"internalType": "contract PigToken",
 				"name": "",
 				"type": "address"
 			}
@@ -375,7 +375,7 @@
 				"type": "address"
 			}
 		],
-		"name": "pendingOwl",
+		"name": "pendingPig",
 		"outputs": [
 			{
 				"internalType": "uint256",
@@ -432,7 +432,7 @@
 			},
 			{
 				"internalType": "uint256",
-				"name": "accOwlPerShare",
+				"name": "accPigPerShare",
 				"type": "uint256"
 			},
 			{
@@ -548,7 +548,7 @@
 		"inputs": [
 			{
 				"internalType": "uint256",
-				"name": "_OwlPerBlock",
+				"name": "_PigPerBlock",
 				"type": "uint256"
 			}
 		],
