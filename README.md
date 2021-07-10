@@ -1,3 +1,3 @@
-# PolyOwl Frontend
+# Polypig Frontend
 
-This project contains the main features of the PolyOwl application.
+This project contains the main features of the Polypig application.

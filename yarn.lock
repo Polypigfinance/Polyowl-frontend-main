@@ -1978,9 +1978,9 @@
     eslint-plugin-react "^7.21.5"
     eslint-plugin-react-hooks "^4.0.0"
 
-"@pancakeswap-libs/uikit@PolyowlFinance/polyowl-uikit-main":
+"@pancakeswap-libs/uikit@PolypigFinance/Polypig-uikit-main":
   version "0.10.2"
-  resolved "https://codeload.github.com/PolyowlFinance/polyowl-uikit-main/tar.gz/91cf290f86326bd9caa498a17ddc1bda1dd712d1"
+  resolved "https://codeload.github.com/PolypigFinance/Polypig-uikit-main/tar.gz/91cf290f86326bd9caa498a17ddc1bda1dd712d1"
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"
